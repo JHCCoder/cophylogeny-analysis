@@ -1,0 +1,21 @@
+DATASET_COLORSTRIP
+
+SEPARATOR SPACE
+
+COLOR #b2df8a
+
+DATASET_LABEL clade_highlights
+
+LEGEND_TITLE host_colors
+LEGEND_SHAPES 1 1 1 1 1 1 1
+LEGEND_COLORS #b2df8a #33a02c #fb9a99 #e31a1c #EACB47 #6a3d9a #8adfc4
+LEGEND_LABELS Amphibia Chelonia Lepidosauria Crocodylomorpha Aves Mammalia Petromyzontida
+
+DATA
+node1659 #EACB47
+node1666 #33a02c
+node1655 #e31a1c
+node2680 #6a3d9a
+node39 #b2df8a
+node139 #fb9a99
+node2700 #8adfc4

@@ -1,0 +1,27 @@
+DATASET_STYLE
+
+SEPARATOR SPACE
+
+COLOR #ffff00
+
+DATASET_LABEL pearson_r
+
+DATA
+#NODE_ID TYPE COLOR LABEL_OR_STYLE SIZE_FACTOR
+node1583 branch node #8e0ca4 2 normal
+node1609 branch node #d8576b 2 normal
+node1656 branch node #e4695e 2 normal
+node1659 branch node #e76e5b 2 normal
+node1653 branch node #d24f71 2 normal
+node1687 branch node #bf3984 2 normal
+node1677 branch node #4c02a1 2 normal
+node1763 branch node #bc3587 2 normal
+node1804 branch node #1d068e 2 normal
+node1862 branch node #d35171 2 normal
+node1903 branch node #f0f921 2 normal
+node2277 branch node #fa9c3c 2 normal
+node2542 branch node #7100a8 2 normal
+node2680 branch node #7401a8 2 normal
+node2678 branch node #b32c8e 2 normal
+node2694 branch node #b42e8d 2 normal
+node2705 branch node #9e199d 2 normal

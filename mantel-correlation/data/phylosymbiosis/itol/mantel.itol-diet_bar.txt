@@ -1,0 +1,63 @@
+DATASET_MULTIBAR
+SEPARATOR TAB
+DATASET_LABEL	Diet Barchart
+COLOR	#00FF00
+FIELD_COLORS	#a6cee3	#cab2d6	#1f78b4	#33a02c	#6a3d9a	#b2df8a	#fb9a99	#e31a1c	#ff7f00	#fdbf6f
+FIELD_LABELS	Fruit	Invertebrates	Nectar	Plants	Scavenging	Seeds	Meat (Ectotherms)	Meat (Endotherms)	Meat (Fish)	Meat (Unknown)
+LEGEND_TITLE	Dataset legend
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#a6cee3	#cab2d6	#1f78b4	#33a02c	#6a3d9a	#b2df8a	#fb9a99	#e31a1c	#ff7f00	#fdbf6f
+LEGEND_LABELS	Fruit	Invertebrates	Nectar	Plants	Scavenging	Seeds	Meat (Ectotherms)	Meat (Endotherms)	Meat (Fish)	Meat (Unknown)
+MARGIN	0
+WIDTH	200
+DATA
+Acryllium_vulturinum	20.0	10.0	0.0	50.0	0.0	20.0	0.0	0.0	0.0	0.0
+Aonyx_cinerea	0.0	80.0	0.0	0.0	0.0	0.0	10.0	0.0	10.0	0.0
+Ardeotis_kori	20.0	20.0	0.0	20.0	0.0	20.0	10.0	10.0	0.0	0.0
+Artibeus_intermedius	80.0	10.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Balantiopteryx_plicata	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Buteo_jamaicensis	0.0	10.0	0.0	0.0	0.0	0.0	30.0	60.0	0.0	0.0
+Callosciurus_prevostii	20.0	20.0	0.0	30.0	0.0	20.0	0.0	0.0	0.0	10.0
+Carollia_perspicillata	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Carollia_sowelli	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Casuarius_casuarius	80.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	10.0
+Chrysolophus_pictus	0.0	10.0	0.0	90.0	0.0	0.0	0.0	0.0	0.0	0.0
+Crocuta_crocuta	0.0	0.0	0.0	0.0	0.0	0.0	0.0	100.0	0.0	0.0
+Cryptoprocta_ferox	0.0	10.0	0.0	0.0	0.0	0.0	20.0	70.0	0.0	0.0
+Cynomys_ludovicianus	0.0	0.0	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0
+Dendrocygna_viduata	10.0	30.0	0.0	40.0	0.0	20.0	0.0	0.0	0.0	0.0
+Desmodus_rotundus	0.0	0.0	0.0	0.0	0.0	0.0	0.0	100.0	0.0	0.0
+Dromaius_novaehollandiae	30.0	20.0	0.0	20.0	0.0	30.0	0.0	0.0	0.0	0.0
+Echinops_telfairi	40.0	60.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Equus_burchellii	0.0	0.0	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0
+Equus_przewalskii	0.0	0.0	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0
+Eudromia_elegans	0.0	30.0	0.0	30.0	0.0	40.0	0.0	0.0	0.0	0.0
+Falco_biarmicus	0.0	10.0	0.0	0.0	0.0	0.0	10.0	80.0	0.0	0.0
+Felis_margarita	0.0	0.0	0.0	0.0	0.0	0.0	10.0	90.0	0.0	0.0
+Geospiza_difficilis	20.0	40.0	0.0	10.0	0.0	30.0	0.0	0.0	0.0	0.0
+Glossophaga_morenoi	30.0	40.0	30.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Grus_americana	10.0	20.0	0.0	0.0	0.0	10.0	20.0	20.0	20.0	0.0
+Haliaeetus_leucocephalus	0.0	0.0	0.0	0.0	20.0	0.0	20.0	30.0	30.0	0.0
+Helogale_parvula	10.0	70.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	20.0
+Hyaena_hyaena	10.0	10.0	0.0	0.0	70.0	0.0	0.0	10.0	0.0	0.0
+Hypogeomys_antimena	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Lemur_catta	80.0	0.0	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0
+Loxodonta_africana	0.0	0.0	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0
+Mandrillus_leucophaeus	40.0	10.0	0.0	10.0	0.0	30.0	0.0	0.0	0.0	10.0
+Melursus_ursinus	10.0	70.0	0.0	20.0	0.0	0.0	0.0	0.0	0.0	0.0
+Mungos_mungo	0.0	80.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	20.0
+Myrmecophaga_tridactyla	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Necrosyrtes_monachus	0.0	20.0	0.0	0.0	80.0	0.0	0.0	0.0	0.0	0.0
+Nyctereutes_procyonoides	30.0	20.0	0.0	0.0	0.0	10.0	30.0	10.0	0.0	0.0
+Parabuteo_unicinctus	0.0	0.0	0.0	0.0	0.0	0.0	10.0	90.0	0.0	0.0
+Parahyaena_brunnea	10.0	10.0	0.0	0.0	70.0	0.0	0.0	10.0	0.0	0.0
+Pteromys_volans	30.0	10.0	0.0	30.0	0.0	30.0	0.0	0.0	0.0	0.0
+Rhea_americana	20.0	20.0	0.0	20.0	0.0	20.0	10.0	10.0	0.0	0.0
+Rhyticeros_undulatus	90.0	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Sarcoramphus_papa	0.0	0.0	0.0	0.0	100.0	0.0	0.0	0.0	0.0	0.0
+Struthio_camelus	0.0	10.0	0.0	50.0	0.0	30.0	0.0	0.0	0.0	10.0
+Suricata_suricatta	0.0	70.0	0.0	10.0	0.0	0.0	0.0	0.0	0.0	20.0
+Tamandua_tetradactyla	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Tolypeutes_matacus	20.0	80.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Torgos_tracheliotos	0.0	0.0	0.0	0.0	90.0	0.0	0.0	0.0	0.0	10.0
+Trichechus_manatus_latirostris	0.0	0.0	0.0	100.0	0.0	0.0	0.0	0.0	0.0	0.0

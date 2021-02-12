@@ -1,0 +1,27 @@
+DATASET_STYLE
+
+SEPARATOR SPACE
+
+COLOR #ffff00
+
+DATASET_LABEL spearman_r
+
+DATA
+#NODE_ID TYPE COLOR LABEL_OR_STYLE SIZE_FACTOR
+node1583 branch node #b52f8c 2 normal
+node1609 branch node #f0f921 2 normal
+node1656 branch node #ed7a52 2 normal
+node1659 branch node #fad824 2 normal
+node1653 branch node #f9dc24 2 normal
+node1687 branch node #f79342 2 normal
+node1677 branch node #7501a8 2 normal
+node1763 branch node #e4695e 2 normal
+node1804 branch node #0d0887 2 normal
+node1862 branch node #a51f99 2 normal
+node1903 branch node #f89540 2 normal
+node2277 branch node #fa9b3d 2 normal
+node2542 branch node #370499 2 normal
+node2680 branch node #3a049a 2 normal
+node2678 branch node #6600a7 2 normal
+node2694 branch node #5102a3 2 normal
+node2705 branch node #3a049a 2 normal

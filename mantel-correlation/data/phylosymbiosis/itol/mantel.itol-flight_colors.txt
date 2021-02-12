@@ -1,0 +1,81 @@
+DATASET_COLORSTRIP
+
+SEPARATOR SPACE
+
+COLOR #8ab2df
+
+DATASET_LABEL categorical_colorstrip
+
+LEGEND_TITLE categorical_colorstrip
+LEGEND_SHAPES 1 1
+LEGEND_COLORS #000000 #FFFFFF
+LEGEND_LABELS flighted flightless
+
+DATA
+Acryllium_vulturinum #000000
+Aldabrachelys_gigantea #FFFFFF
+Alligator_mississippiensis #FFFFFF
+Aonyx_cinerea #FFFFFF
+Ardeotis_kori #000000
+Artibeus_intermedius #000000
+Astrochelys_radiata #FFFFFF
+Balantiopteryx_plicata #000000
+Buteo_jamaicensis #000000
+Callosciurus_prevostii #FFFFFF
+Carollia_perspicillata #000000
+Carollia_sowelli #000000
+Casuarius_casuarius #FFFFFF
+Chrysolophus_pictus #000000
+Cornufer_guentheri #FFFFFF
+Crocodylus_rhombifer #FFFFFF
+Crocuta_crocuta #FFFFFF
+Cryptoprocta_ferox #FFFFFF
+Cynomys_ludovicianus #FFFFFF
+Dendrocygna_viduata #000000
+Desmodus_rotundus #000000
+Dromaius_novaehollandiae #FFFFFF
+Echinops_telfairi #FFFFFF
+Equus_burchellii #FFFFFF
+Equus_przewalskii #FFFFFF
+Eudromia_elegans #000000
+Eunectes_murinus #FFFFFF
+Falco_biarmicus #000000
+Felis_margarita #FFFFFF
+Geospiza_difficilis #000000
+Glossophaga_morenoi #000000
+Grus_americana #000000
+Haliaeetus_leucocephalus #000000
+Helogale_parvula #FFFFFF
+Hyaena_hyaena #FFFFFF
+Hypogeomys_antimena #FFFFFF
+Ichthyomyzon_fossor #FFFFFF
+Lampetra_appendix #FFFFFF
+Lemur_catta #FFFFFF
+Lepidobatrachus_laevis #FFFFFF
+Loxodonta_africana #FFFFFF
+Mandrillus_leucophaeus #FFFFFF
+Melursus_ursinus #FFFFFF
+Mungos_mungo #FFFFFF
+Myrmecophaga_tridactyla #FFFFFF
+Necrosyrtes_monachus #000000
+Nyctereutes_procyonoides #FFFFFF
+Parabuteo_unicinctus #000000
+Parahyaena_brunnea #FFFFFF
+Pedostibes_hosii #FFFFFF
+Petromyzon_marinus #FFFFFF
+Pseudopus_apodus #FFFFFF
+Pteromys_volans #FFFFFF
+Pyxis_arachnoides #FFFFFF
+Rhacodactylus_leachianus #FFFFFF
+Rhea_americana #FFFFFF
+Rhyticeros_undulatus #000000
+Sarcoramphus_papa #000000
+Struthio_camelus #FFFFFF
+Suricata_suricatta #FFFFFF
+Tamandua_tetradactyla #FFFFFF
+Tolypeutes_matacus #FFFFFF
+Torgos_tracheliotos #000000
+Trachycephalus_resinifictrix #FFFFFF
+Trichechus_manatus #FFFFFF
+Uroplatus_lineatus #FFFFFF
+Varanus_albigularis #FFFFFF
